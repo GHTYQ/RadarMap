@@ -19,6 +19,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    //qwe
     // Do any additional setup after loading the view, typically from a nib.
     /*
     // 雷达元素模型
